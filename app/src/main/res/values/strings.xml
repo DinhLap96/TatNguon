@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Power off</string>
+    <string name="power">Shutdown</string>
+    <string name="reboot">Restart</string>
+    <string name="recovery">Recovery</string>
+    <string name="summary">DinhLap</string>
+    <string name="tutorial">Tutorial: Settings/Accessibility/Power off (ON)</string>
+    <string name="next">Next</string>
+    <string name="not_supported">Not supported</string>
+    <string name="autoStart">Permission AutoStart</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Accept !</string>
+    <string name="permission">Accessibility service terms of use !</string>
+    <string name="accessibility_service_description">\"Power Off\" requires the use of allowed AccessibilityServices, can detect touching the application icon \"Power Off\" on the phone screen to bring up a list of options of the power physical key of equipment.\n\n+ Apart from the aforementioned feature \"Power Off\" does not have the right to use the network, nor access, nor collect any other features and information.\n\n+ Purpose of using the application \"Power Off\": can replace the hard physical power key on the device to increase the life of the key.</string>
+    <string name="permission2">Please enable \"Auto-start\" permission so the app doesn\'t automatically invalidate.\n\nNote: \"Power off\" uses the Accessibility service !\n\n+ Android Accessibility Service is intended primarily for disabled users to perform standard phone operations easily. For example, the built-in TalkBack feature can be used to read screen content aloud. All you have to do is touch the screen.\n\n+ \"Power Off\" requires the use of allowed AccessibilityServices, can detect touching the application icon \"Power Off\" on the phone screen to bring up a list of options of the power physical key of equipment.\n\n+ Apart from the aforementioned feature \"Power Off\" does not have the right to use the network, nor access, nor collect any other features and information.\n\n+ Purpose of using the application \"Power Off\": can replace the hard physical power key on the device to increase the life of the key.\n\n+ You do not accept the terms, use the accessibility service for the application can be uninstalled at any time.</string>
+
+</resources>

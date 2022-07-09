@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tắt nguồn</string>
+    <string name="power">Tắt nguồn</string>
+    <string name="reboot">Khởi động lại</string>
+    <string name="recovery">Khôi phục</string>
+    <string name="summary">Đình Lập</string>
+    <string name="tutorial">Hướng dẫn: Cài đặt/Trợ năng/Tắt nguồn (BẬT)</string>
+    <string name="next">Tiếp theo</string>
+    <string name="not_supported">Không hỗ trợ</string>
+    <string name="autoStart">Quyền tự khởi chạy</string>
+    <string name="cancel">Không</string>
+    <string name="ok">Chấp nhận !</string>
+    <string name="permission">Điều khoản sử dụng dịch vụ Trợ năng !</string>
+    <string name="permission2">Hãy bật quyền \"Tự khởi chạy\" để ứng dụng không tự động mất hiệu lực.\n\nLưu ý: \"Tắt nguồn\" có sử dụng dịch vụ Trợ năng !.\n\n+ Dịch vụ trợ năng Android chủ yếu dành cho người dùng khuyết tật để thực hiện các thao tác điện thoại tiêu chuẩn dễ dàng. Chẳng hạn, tính năng TalkBack tích hợp có thể được sử dụng để đọc to nội dung màn hình. Tất cả bạn phải làm là chạm vào màn hình.\n\n+ \"Tắt Nguồn\" yêu cầu sử dụng AccessibilityServices được phép, có thể phát hiện hành động chạm vào biểu tượng ứng dụng \"Tắt Nguồn\" trên màn hình điện thoại để hiển thị danh sách tuỳ chọn của phím vật lý nguồn của thiết bị.\n\n+ Ngoài tính năng đã nói ở trên \"Tắt Nguồn\" không có quyền sử dụng mạng, cũng không truy cập, không thu thập bất cứ tính năng và thông tin nào khác.\n\n+ Mục đích sử dụng ứng dụng \"Tắt Nguồn\": có thể thay thế phím nguồn vật lý cứng trên thiết bị tăng được tuổi thọ cho phím.\n\n+ Bạn không chấp nhận điều khoản, sử dụng dịch vụ trợ năng cho ứng dụng có thể gỡ cài đặt bất cứ lúc nào.</string>
+    <string name="accessibility_service_description">\"Tắt Nguồn\" yêu cầu sử dụng AccessibilityServices được phép, có thể phát hiện hành động chạm vào biểu tượng ứng dụng \"Tắt Nguồn\" trên màn hình điện thoại để hiển thị danh sách tuỳ chọn của phím vật lý nguồn của thiết bị.\n\n+ Ngoài tính năng đã nói ở trên \"Tắt Nguồn\" không có quyền sử dụng mạng, cũng không truy cập, không thu thập bất cứ tính năng và thông tin nào khác.\n\n+ Mục đích sử dụng ứng dụng \"Tắt Nguồn\": có thể thay thế phím nguồn vật lý cứng trên thiết bị tăng được tuổi thọ cho phím.</string>
+</resources>
